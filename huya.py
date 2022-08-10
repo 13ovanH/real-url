@@ -1,5 +1,5 @@
 # 获取虎牙直播的真实流媒体地址。
-
+#  -*-coding:utf8 -*-
 import requests
 import re
 import base64
